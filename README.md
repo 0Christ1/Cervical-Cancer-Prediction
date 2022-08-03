@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @0Christ1
+- 👋 Hi, I’m Christ.
 - 👀 I’m interested in AI and Metaphysics.
 - 🌱 I’m currently learning computer science in New York University.
 - 💞️ I’m looking to collaborate on "something interesting"
